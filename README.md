@@ -5,6 +5,5 @@
 
 
 cybersecurity hobbyist. experienced in graphic designer.
-
-Help me report security advisor
-- [tplink](https://www.tp-link.com/id/press/security-advisory/)
+accept for commision.
+the4ce1@aol.com
