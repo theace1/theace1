@@ -1,7 +1,6 @@
 ![Header](/img/header.png)
 
-
-## My Opensource Intelligence ☣
-
+## theace1
+cybersecurity hobbyist who doesn't know much about da outside world. experienced in junior graphic designer.
 
 
