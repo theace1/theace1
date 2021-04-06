@@ -1,3 +1,5 @@
+![OpenWrt logo](/img/header.png)
+
 ### Hi there 👋
 
 Here are some ideas to get you started:
@@ -10,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
