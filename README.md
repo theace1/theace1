@@ -1,5 +1,5 @@
 ![OpenWrt logo](/img/header.png)
-<img src="/img/header.png" width="1000px">
+<img src="/img/header.png" width="500px">
 
 
 # What? Me? #
